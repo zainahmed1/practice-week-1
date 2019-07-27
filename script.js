@@ -125,3 +125,32 @@ let students = [
 // for (let i = 0; i < students.length; i++) {
 //     console.log(students[i].name + `s age is ` + (new Date().getFullYear() - students[i].dob.getFullYear() + ` year` ));
 // } 
+// let student = [
+//     {
+//         name: "Hadia",
+//         age: 35
+//     },
+//     {
+//         name: "Amna",
+//         age: 29
+//     },
+//     {
+//         name: "Ahmed",
+//         age: 17
+//     },
+//     {
+//         name: "Faria",
+//         age: 21
+//     },
+//     {
+//         name: "Abdullah",
+//         age: 47
+//     }
+// ]
+// let oldestStudents = student[0];
+// for (let i = 1; i < student.length; i++) {
+//     if (student[i].age > oldestStudents.age) {
+//         oldestStudents = student[i];
+//     }
+// }
+// console.log(oldestStudents.name);
